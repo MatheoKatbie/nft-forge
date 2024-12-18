@@ -1,5 +1,7 @@
 # NFT Forge
 
+**Warning:** We are actively seeking a talented UI/UX designer to join our team and help make NFT Forge's user experience exceptional.
+
 ## Overview
 
 NFT Forge is a web-based platform that leverages the Solana blockchain to enable users to create and mint NFTs automatically using AI technology. It's designed for ease of use, allowing anyone to generate unique NFT collections without deep technical knowledge.
@@ -43,14 +45,8 @@ NFT Forge is a web-based platform that leverages the Solana blockchain to enable
 - **V2.0:** Enhancements in design customization, marketplace integration, and user feedback for AI learning.
 - **Future:** Governance features, utility expansion in virtual spaces, and community-driven development.
 
-## Contribution
-
-Interested in contributing? Whether it's improving the AI, enhancing the user interface, or optimizing Solana integration, we're open to pull requests. See our [Contribution Guidelines](#) for how to get involved.
-
 ## License
 
 This project is licensed under the **GPL-3.0 License** - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-
-This README introduces NFT Forge as a user-friendly platform for AI-generated NFT creation and automatic minting on Solana, emphasizing its simplicity and innovation.
